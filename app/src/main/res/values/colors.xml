@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="layout_bg">#09093C</color>
+    <color name="card_bg">#154247</color>
+    <color name="hint_bg">#7C7E7E</color>
+    <color name="btn_bg">#C0CA33</color>
+<!--    <color name="good_message_color">#7CB342</color>-->
+<!--    <color name="weak_message_color">#EFFF12</color>-->
+<!--    <color name="fat_message_color">#FF6600</color>-->
+</resources>
